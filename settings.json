@@ -1,0 +1,9 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "visible",
+    "workbench.iconTheme": "vs-minimal",
+    "code-runner.fileDirectoryAsCwd": true
+}
